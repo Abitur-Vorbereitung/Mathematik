@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 4</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Quartz 4</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Analysis</title>
+    <link>https://quartz.jzhao.xyz/Analysis/Analysis</link>
+    <guid>https://quartz.jzhao.xyz/Analysis/Analysis</guid>
+    <description> Funktionsuntersuchung Schnittpunkte Ableitung Integral Extrema Wendepunkte und Sattelpunkte Limes.</description>
+    <pubDate>Sat, 12 Apr 2025 15:49:53 GMT</pubDate>
+  </item><item>
+    <title>Themen</title>
+    <link>https://quartz.jzhao.xyz/Themen</link>
+    <guid>https://quartz.jzhao.xyz/Themen</guid>
+    <description> Analysis Analytische Geometrie Stochastik.</description>
+    <pubDate>Sat, 12 Apr 2025 15:49:00 GMT</pubDate>
+  </item><item>
+    <title>Schnittpunkte</title>
+    <link>https://quartz.jzhao.xyz/Analysis/Schnittpunkte</link>
+    <guid>https://quartz.jzhao.xyz/Analysis/Schnittpunkte</guid>
+    <description> gleicher Wert zweier Ausdrücke Mit der y-Achse y = f(0) Mit der x-Achse 0 = f(x) Mit einer anderen Funktion f(x) = g(x).</description>
+    <pubDate>Sat, 12 Apr 2025 15:40:31 GMT</pubDate>
+  </item><item>
+    <title>Ableitung</title>
+    <link>https://quartz.jzhao.xyz/Ableitung</link>
+    <guid>https://quartz.jzhao.xyz/Ableitung</guid>
+    <description> Steigung an einem Punkt Mit der h-Methode.</description>
+    <pubDate>Sat, 12 Apr 2025 15:39:48 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
