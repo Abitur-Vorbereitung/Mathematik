@@ -1,13 +1,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://quartz.jzhao.xyz/Ableitung</loc>
+    <loc>https://quartz.jzhao.xyz/Analysis/Ableitungen</loc>
     <lastmod>2025-04-12T15:39:48.675Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Analysis/Analysis</loc>
-    <lastmod>2025-04-12T15:49:53.141Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Analysis/Extrema</loc>
+    <lastmod>2025-04-13T11:09:38.856Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Analysis/Funktionen</loc>
+    <lastmod>2025-04-13T11:17:49.855Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Analysis/Integrale</loc>
+    <lastmod>2025-04-13T11:09:33.797Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Analysis/Limes</loc>
+    <lastmod>2025-04-13T11:09:43.069Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Analysis/Monotonie</loc>
+    <lastmod>2025-04-13T11:09:28.358Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Analysis/Schnittpunkte</loc>
     <lastmod>2025-04-12T15:40:31.725Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Analysis/Wendepunkte-und-Sattelpunkte</loc>
+    <lastmod>2025-04-13T11:09:41.619Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Analytische-Geometrie/Abst%C3%A4nde</loc>
+    <lastmod>2025-04-13T11:16:34.619Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Analytische-Geometrie/Ebenen</loc>
+    <lastmod>2025-04-13T11:16:31.659Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Analytische-Geometrie/Geraden</loc>
+    <lastmod>2025-04-13T11:16:30.175Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Analytische-Geometrie/Lagebeziehungen</loc>
+    <lastmod>2025-04-13T11:16:33.289Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Analytische-Geometrie/Schnitte</loc>
+    <lastmod>2025-04-13T11:16:35.864Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Analytische-Geometrie/Vektorrechnung</loc>
+    <lastmod>2025-04-13T11:16:20.643Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Stochastik/Bedingte-Wahrscheinlichkeiten</loc>
+    <lastmod>2025-04-13T11:22:21.546Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Stochastik/Bernoulli-Ketten</loc>
+    <lastmod>2025-04-13T11:22:23.212Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Stochastik/Hypothesentests</loc>
+    <lastmod>2025-04-13T11:22:25.809Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Stochastik/Normalverteilungen</loc>
+    <lastmod>2025-04-13T11:22:24.532Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Stochastik/Wahrscheinlichkeiten</loc>
+    <lastmod>2025-04-13T11:22:19.236Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Themen</loc>
-    <lastmod>2025-04-12T15:49:00.581Z</lastmod>
+    <lastmod>2025-04-13T11:28:24.849Z</lastmod>
   </url></urlset>

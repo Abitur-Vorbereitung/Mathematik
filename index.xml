@@ -6,29 +6,65 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Analysis</title>
-    <link>https://quartz.jzhao.xyz/Analysis/Analysis</link>
-    <guid>https://quartz.jzhao.xyz/Analysis/Analysis</guid>
-    <description> Funktionsuntersuchung Schnittpunkte Ableitung Integral Extrema Wendepunkte und Sattelpunkte Limes.</description>
-    <pubDate>Sat, 12 Apr 2025 15:49:53 GMT</pubDate>
-  </item><item>
     <title>Themen</title>
     <link>https://quartz.jzhao.xyz/Themen</link>
     <guid>https://quartz.jzhao.xyz/Themen</guid>
-    <description> Analysis Analytische Geometrie Stochastik.</description>
-    <pubDate>Sat, 12 Apr 2025 15:49:00 GMT</pubDate>
+    <description> Analysis Funktionen Schnittpunkte Monotonie Ableitungen Integrale Extrema Wendepunkte und Sattelpunkte Limes Analytische Geometrie Vektorrechnung Geraden Ebenen Lagebeziehungen Abstände Schnitte Stochastik Wahrscheinlichkeiten Bedingte Wahrscheinlichkeiten Bernoulli-Ketten Normalverteilungen Hypoth...</description>
+    <pubDate>Sun, 13 Apr 2025 11:28:24 GMT</pubDate>
   </item><item>
-    <title>Schnittpunkte</title>
-    <link>https://quartz.jzhao.xyz/Analysis/Schnittpunkte</link>
-    <guid>https://quartz.jzhao.xyz/Analysis/Schnittpunkte</guid>
-    <description> gleicher Wert zweier Ausdrücke Mit der y-Achse y = f(0) Mit der x-Achse 0 = f(x) Mit einer anderen Funktion f(x) = g(x).</description>
-    <pubDate>Sat, 12 Apr 2025 15:40:31 GMT</pubDate>
+    <title>Hypothesentests</title>
+    <link>https://quartz.jzhao.xyz/Stochastik/Hypothesentests</link>
+    <guid>https://quartz.jzhao.xyz/Stochastik/Hypothesentests</guid>
+    <description></description>
+    <pubDate>Sun, 13 Apr 2025 11:22:25 GMT</pubDate>
   </item><item>
-    <title>Ableitung</title>
-    <link>https://quartz.jzhao.xyz/Ableitung</link>
-    <guid>https://quartz.jzhao.xyz/Ableitung</guid>
-    <description> Steigung an einem Punkt Mit der h-Methode.</description>
-    <pubDate>Sat, 12 Apr 2025 15:39:48 GMT</pubDate>
+    <title>Normalverteilungen</title>
+    <link>https://quartz.jzhao.xyz/Stochastik/Normalverteilungen</link>
+    <guid>https://quartz.jzhao.xyz/Stochastik/Normalverteilungen</guid>
+    <description></description>
+    <pubDate>Sun, 13 Apr 2025 11:22:24 GMT</pubDate>
+  </item><item>
+    <title>Bernoulli-Ketten</title>
+    <link>https://quartz.jzhao.xyz/Stochastik/Bernoulli-Ketten</link>
+    <guid>https://quartz.jzhao.xyz/Stochastik/Bernoulli-Ketten</guid>
+    <description></description>
+    <pubDate>Sun, 13 Apr 2025 11:22:23 GMT</pubDate>
+  </item><item>
+    <title>Bedingte Wahrscheinlichkeiten</title>
+    <link>https://quartz.jzhao.xyz/Stochastik/Bedingte-Wahrscheinlichkeiten</link>
+    <guid>https://quartz.jzhao.xyz/Stochastik/Bedingte-Wahrscheinlichkeiten</guid>
+    <description></description>
+    <pubDate>Sun, 13 Apr 2025 11:22:21 GMT</pubDate>
+  </item><item>
+    <title>Wahrscheinlichkeiten</title>
+    <link>https://quartz.jzhao.xyz/Stochastik/Wahrscheinlichkeiten</link>
+    <guid>https://quartz.jzhao.xyz/Stochastik/Wahrscheinlichkeiten</guid>
+    <description></description>
+    <pubDate>Sun, 13 Apr 2025 11:22:19 GMT</pubDate>
+  </item><item>
+    <title>Funktionen</title>
+    <link>https://quartz.jzhao.xyz/Analysis/Funktionen</link>
+    <guid>https://quartz.jzhao.xyz/Analysis/Funktionen</guid>
+    <description></description>
+    <pubDate>Sun, 13 Apr 2025 11:17:49 GMT</pubDate>
+  </item><item>
+    <title>Schnitte</title>
+    <link>https://quartz.jzhao.xyz/Analytische-Geometrie/Schnitte</link>
+    <guid>https://quartz.jzhao.xyz/Analytische-Geometrie/Schnitte</guid>
+    <description></description>
+    <pubDate>Sun, 13 Apr 2025 11:16:35 GMT</pubDate>
+  </item><item>
+    <title>Abstände</title>
+    <link>https://quartz.jzhao.xyz/Analytische-Geometrie/Abst%C3%A4nde</link>
+    <guid>https://quartz.jzhao.xyz/Analytische-Geometrie/Abst%C3%A4nde</guid>
+    <description></description>
+    <pubDate>Sun, 13 Apr 2025 11:16:34 GMT</pubDate>
+  </item><item>
+    <title>Lagebeziehungen</title>
+    <link>https://quartz.jzhao.xyz/Analytische-Geometrie/Lagebeziehungen</link>
+    <guid>https://quartz.jzhao.xyz/Analytische-Geometrie/Lagebeziehungen</guid>
+    <description></description>
+    <pubDate>Sun, 13 Apr 2025 11:16:33 GMT</pubDate>
   </item>
     </channel>
   </rss>
