@@ -6,65 +6,65 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Themen</title>
-    <link>https://quartz.jzhao.xyz/Themen</link>
-    <guid>https://quartz.jzhao.xyz/Themen</guid>
-    <description> Analysis Funktionen Schnittpunkte Monotonie Ableitungen Integrale Extrema Wendepunkte und Sattelpunkte Limes Analytische Geometrie Vektorrechnung Geraden Ebenen Lagebeziehungen Abstände Schnitte Stochastik Wahrscheinlichkeiten Bedingte Wahrscheinlichkeiten Bernoulli-Ketten Normalverteilungen Hypoth...</description>
-    <pubDate>Sun, 13 Apr 2025 11:28:24 GMT</pubDate>
-  </item><item>
     <title>Hypothesentests</title>
     <link>https://quartz.jzhao.xyz/Stochastik/Hypothesentests</link>
     <guid>https://quartz.jzhao.xyz/Stochastik/Hypothesentests</guid>
-    <description></description>
-    <pubDate>Sun, 13 Apr 2025 11:22:25 GMT</pubDate>
+    <description> Schließen von Stichprobe auf Grundgesamtheit H_0: Hyptothese H_1:Alternativhypothese Arten Linksseitig H_0:p \ge p_k H_1:p&lt;p_k Rechtsseitig H_0:p \le p_k H_1:p&gt;p_k Beidseitig H_0:p = p_k H_1:p&lt;p_k \lor p &gt; p_k Fehler α-Fehler (1.</description>
+    <pubDate>Sun, 13 Apr 2025 18:22:51 GMT</pubDate>
   </item><item>
-    <title>Normalverteilungen</title>
-    <link>https://quartz.jzhao.xyz/Stochastik/Normalverteilungen</link>
-    <guid>https://quartz.jzhao.xyz/Stochastik/Normalverteilungen</guid>
-    <description></description>
-    <pubDate>Sun, 13 Apr 2025 11:22:24 GMT</pubDate>
-  </item><item>
-    <title>Bernoulli-Ketten</title>
-    <link>https://quartz.jzhao.xyz/Stochastik/Bernoulli-Ketten</link>
-    <guid>https://quartz.jzhao.xyz/Stochastik/Bernoulli-Ketten</guid>
-    <description></description>
-    <pubDate>Sun, 13 Apr 2025 11:22:23 GMT</pubDate>
+    <title>Kombinatorik und Hypergeometrische Verteilung</title>
+    <link>https://quartz.jzhao.xyz/Stochastik/Kombinatorik-und-Hypergeometrische-Verteilung</link>
+    <guid>https://quartz.jzhao.xyz/Stochastik/Kombinatorik-und-Hypergeometrische-Verteilung</guid>
+    <description> errechnet die Anzahl möglicher Ausgänge bzw.</description>
+    <pubDate>Sun, 13 Apr 2025 18:08:48 GMT</pubDate>
   </item><item>
     <title>Bedingte Wahrscheinlichkeiten</title>
     <link>https://quartz.jzhao.xyz/Stochastik/Bedingte-Wahrscheinlichkeiten</link>
     <guid>https://quartz.jzhao.xyz/Stochastik/Bedingte-Wahrscheinlichkeiten</guid>
-    <description></description>
-    <pubDate>Sun, 13 Apr 2025 11:22:21 GMT</pubDate>
+    <description>P_B(A) = \frac{P(A \bigcap B)}{P(B)} P_B(A) = P(A) \implies \text{Stochastische Unabhängigkeit}.</description>
+    <pubDate>Sun, 13 Apr 2025 17:57:41 GMT</pubDate>
+  </item><item>
+    <title>Normalverteilungen</title>
+    <link>https://quartz.jzhao.xyz/Stochastik/Normalverteilungen</link>
+    <guid>https://quartz.jzhao.xyz/Stochastik/Normalverteilungen</guid>
+    <description> sind Grenzfälle einer Bernoulli-Verteilung für eine unendlich große Stichprobe wenn die Laplace-Bedingung gilt: \sqrt{n*p*(1-p)}&gt;3 und p=0,5 kann sie als Annäherung genutzt werden Standardnormalverteilung φ(x) = \frac{1}{\sqrt{2π}}e^{-\frac12x²} Normalverteilung mit Parametern φ_{σ,μ}(x) = \frac...</description>
+    <pubDate>Sun, 13 Apr 2025 17:53:20 GMT</pubDate>
+  </item><item>
+    <title>Bernoulli-Ketten</title>
+    <link>https://quartz.jzhao.xyz/Stochastik/Bernoulli-Ketten</link>
+    <guid>https://quartz.jzhao.xyz/Stochastik/Bernoulli-Ketten</guid>
+    <description> zur Berechnung verketteter Laplace-Experimente+ Formel P(X=k) = \binom nk * p^k * (1-p)^{n-k} Kumuliert P(X \le k) = \sum_{k_k=0}^{k} \binom {n}{k_k} * p^{k_k} * (1-p)^{n-k_k} P(X&gt;k)=1-P(X \le k).</description>
+    <pubDate>Sun, 13 Apr 2025 17:31:37 GMT</pubDate>
   </item><item>
     <title>Wahrscheinlichkeiten</title>
     <link>https://quartz.jzhao.xyz/Stochastik/Wahrscheinlichkeiten</link>
     <guid>https://quartz.jzhao.xyz/Stochastik/Wahrscheinlichkeiten</guid>
-    <description></description>
-    <pubDate>Sun, 13 Apr 2025 11:22:19 GMT</pubDate>
+    <description> ermöglichen eine Vorhersage über Zufallsexperimente Kenngrößen Absolute Häufigkeiten sind die jeweiligen Anzahlen des Vorkommens.</description>
+    <pubDate>Sun, 13 Apr 2025 17:03:08 GMT</pubDate>
   </item><item>
-    <title>Funktionen</title>
-    <link>https://quartz.jzhao.xyz/Analysis/Funktionen</link>
-    <guid>https://quartz.jzhao.xyz/Analysis/Funktionen</guid>
-    <description></description>
-    <pubDate>Sun, 13 Apr 2025 11:17:49 GMT</pubDate>
+    <title>Themen</title>
+    <link>https://quartz.jzhao.xyz/Themen</link>
+    <guid>https://quartz.jzhao.xyz/Themen</guid>
+    <description> Analysis Funktionen Schnittpunkte Monotonie Symmetrie Extrema Wendepunkte und Sattelpunkte Limes Ableitungen Integrale Analytische Geometrie Vektorrechnung Geraden Ebenen Lagebeziehungen Abstände Schnitte Stochastik Wahrscheinlichkeiten Kombinatorik und Hypergeometrische Verteilung Bedingte Wahrsch...</description>
+    <pubDate>Sun, 13 Apr 2025 17:01:22 GMT</pubDate>
   </item><item>
     <title>Schnitte</title>
     <link>https://quartz.jzhao.xyz/Analytische-Geometrie/Schnitte</link>
     <guid>https://quartz.jzhao.xyz/Analytische-Geometrie/Schnitte</guid>
-    <description></description>
-    <pubDate>Sun, 13 Apr 2025 11:16:35 GMT</pubDate>
-  </item><item>
-    <title>Abstände</title>
-    <link>https://quartz.jzhao.xyz/Analytische-Geometrie/Abst%C3%A4nde</link>
-    <guid>https://quartz.jzhao.xyz/Analytische-Geometrie/Abst%C3%A4nde</guid>
-    <description></description>
-    <pubDate>Sun, 13 Apr 2025 11:16:34 GMT</pubDate>
+    <description> Beide Objekte haben hier denselben Wert. Gerade-Gerade Setze beide Geraden gleich und löse das Gleichungssystem.</description>
+    <pubDate>Sun, 13 Apr 2025 16:37:52 GMT</pubDate>
   </item><item>
     <title>Lagebeziehungen</title>
     <link>https://quartz.jzhao.xyz/Analytische-Geometrie/Lagebeziehungen</link>
     <guid>https://quartz.jzhao.xyz/Analytische-Geometrie/Lagebeziehungen</guid>
-    <description></description>
-    <pubDate>Sun, 13 Apr 2025 11:16:33 GMT</pubDate>
+    <description> Punkt-Gerade \vec x = \left( \begin{array}{c} x_p \\ y_p \\ z_p \end{array} \right) + s*\left( \begin{array}{c} x_v \\ y_v \\ z_v \end{array} \right) \implies P \in G \text{ (Punkt liegt auf Gerade)} Gerade-Gerade \left( \begin{array}{c} x_{p1} \\ y_{p1} \\ z_{p1} \end{array} \right) + s*\left( \be...</description>
+    <pubDate>Sun, 13 Apr 2025 16:29:24 GMT</pubDate>
+  </item><item>
+    <title>Abstände</title>
+    <link>https://quartz.jzhao.xyz/Analytische-Geometrie/Abst%C3%A4nde</link>
+    <guid>https://quartz.jzhao.xyz/Analytische-Geometrie/Abst%C3%A4nde</guid>
+    <description> Länge des kürzesten Wegs zwischen zwei Objekten Punkt-Punkt d = |\overrightarrow{AB}| Punkt-Gerade Erstelle eine Hilfsebene mit dem Ortsvektor des Punktes als Stützvektor und dem Richtungsvektor als Normalvektor.</description>
+    <pubDate>Sun, 13 Apr 2025 15:20:08 GMT</pubDate>
   </item>
     </channel>
   </rss>

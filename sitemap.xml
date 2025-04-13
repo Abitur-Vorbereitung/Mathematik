@@ -1,61 +1,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://quartz.jzhao.xyz/Analysis/Ableitungen</loc>
-    <lastmod>2025-04-12T15:39:48.675Z</lastmod>
+    <lastmod>2025-04-13T12:54:23.883Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Analysis/Extrema</loc>
-    <lastmod>2025-04-13T11:09:38.856Z</lastmod>
+    <lastmod>2025-04-13T12:57:52.437Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Analysis/Funktionen</loc>
-    <lastmod>2025-04-13T11:17:49.855Z</lastmod>
+    <lastmod>2025-04-13T12:07:06.541Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Analysis/Integrale</loc>
-    <lastmod>2025-04-13T11:09:33.797Z</lastmod>
+    <lastmod>2025-04-13T13:28:20.015Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Analysis/Limes</loc>
-    <lastmod>2025-04-13T11:09:43.069Z</lastmod>
+    <lastmod>2025-04-13T13:39:56.996Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Analysis/Monotonie</loc>
-    <lastmod>2025-04-13T11:09:28.358Z</lastmod>
+    <lastmod>2025-04-13T13:46:03.282Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Analysis/Schnittpunkte</loc>
-    <lastmod>2025-04-12T15:40:31.725Z</lastmod>
+    <lastmod>2025-04-13T12:16:09.004Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Analysis/Symmetrie</loc>
+    <lastmod>2025-04-13T12:35:45.538Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Analysis/Wendepunkte-und-Sattelpunkte</loc>
-    <lastmod>2025-04-13T11:09:41.619Z</lastmod>
+    <lastmod>2025-04-13T13:05:07.143Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Analytische-Geometrie/Abst%C3%A4nde</loc>
-    <lastmod>2025-04-13T11:16:34.619Z</lastmod>
+    <lastmod>2025-04-13T15:20:08.821Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Analytische-Geometrie/Ebenen</loc>
-    <lastmod>2025-04-13T11:16:31.659Z</lastmod>
+    <lastmod>2025-04-13T14:51:04.675Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Analytische-Geometrie/Geraden</loc>
-    <lastmod>2025-04-13T11:16:30.175Z</lastmod>
+    <lastmod>2025-04-13T14:15:45.371Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Analytische-Geometrie/Lagebeziehungen</loc>
-    <lastmod>2025-04-13T11:16:33.289Z</lastmod>
+    <lastmod>2025-04-13T16:29:24.628Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Analytische-Geometrie/Schnitte</loc>
-    <lastmod>2025-04-13T11:16:35.864Z</lastmod>
+    <lastmod>2025-04-13T16:37:52.611Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Analytische-Geometrie/Vektorrechnung</loc>
-    <lastmod>2025-04-13T11:16:20.643Z</lastmod>
+    <lastmod>2025-04-13T14:59:27.564Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/N%C3%BCtzliche-Formeln</loc>
+    <lastmod>2025-04-13T12:27:23.306Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Stochastik/Bedingte-Wahrscheinlichkeiten</loc>
-    <lastmod>2025-04-13T11:22:21.546Z</lastmod>
+    <lastmod>2025-04-13T17:57:41.576Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Stochastik/Bernoulli-Ketten</loc>
-    <lastmod>2025-04-13T11:22:23.212Z</lastmod>
+    <lastmod>2025-04-13T17:31:37.108Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Stochastik/Hypothesentests</loc>
-    <lastmod>2025-04-13T11:22:25.809Z</lastmod>
+    <lastmod>2025-04-13T18:22:51.711Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Stochastik/Kombinatorik-und-Hypergeometrische-Verteilung</loc>
+    <lastmod>2025-04-13T18:08:48.467Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Stochastik/Normalverteilungen</loc>
-    <lastmod>2025-04-13T11:22:24.532Z</lastmod>
+    <lastmod>2025-04-13T17:53:20.091Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Stochastik/Wahrscheinlichkeiten</loc>
-    <lastmod>2025-04-13T11:22:19.236Z</lastmod>
+    <lastmod>2025-04-13T17:03:08.142Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Themen</loc>
-    <lastmod>2025-04-13T11:28:24.849Z</lastmod>
+    <lastmod>2025-04-13T17:01:22.500Z</lastmod>
   </url></urlset>
