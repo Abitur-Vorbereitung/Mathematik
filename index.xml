@@ -6,6 +6,24 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Symmetrie</title>
+    <link>https://quartz.jzhao.xyz/Analysis/Symmetrie</link>
+    <guid>https://quartz.jzhao.xyz/Analysis/Symmetrie</guid>
+    <description> Nullpunkt-Symmetrie f(x) = -f(-x) Tipp: Nur gerade Exponenten (bei Polynomen) y-Achsen-Symmetrie f(x) = f(-x) Tipp: Nur ungerade Exponenten (bei Polynomen) generelle Punkt-Symmetrie f(a+x)+f(a-x)=2b \implies \text{Symmetrie an P(a|b)} generelle Achsen-Symmetrie f(a+x)=f(a-x) \implies \text{Symmetri...</description>
+    <pubDate>Sun, 13 Apr 2025 20:10:07 GMT</pubDate>
+  </item><item>
+    <title>Bedingte Wahrscheinlichkeiten</title>
+    <link>https://quartz.jzhao.xyz/Stochastik/Bedingte-Wahrscheinlichkeiten</link>
+    <guid>https://quartz.jzhao.xyz/Stochastik/Bedingte-Wahrscheinlichkeiten</guid>
+    <description>ist die Wahrscheinlichkeit eines Ereignisses, wenn ein anderes vorher eingetreten ist.</description>
+    <pubDate>Sun, 13 Apr 2025 20:04:23 GMT</pubDate>
+  </item><item>
+    <title>Schnittpunkte</title>
+    <link>https://quartz.jzhao.xyz/Analysis/Schnittpunkte</link>
+    <guid>https://quartz.jzhao.xyz/Analysis/Schnittpunkte</guid>
+    <description> gleicher Wert zweier Ausdrücke Mit der y-Achse y = f(0) Mit der x-Achse Nullstellen 0 = f(x) Tipp: Ein Produkt ist 0, wenn mind. ein Faktor 0 ist.</description>
+    <pubDate>Sun, 13 Apr 2025 20:00:35 GMT</pubDate>
+  </item><item>
     <title>Ableitungen</title>
     <link>https://quartz.jzhao.xyz/Analysis/Ableitungen</link>
     <guid>https://quartz.jzhao.xyz/Analysis/Ableitungen</guid>
@@ -36,12 +54,6 @@
     <description> errechnet die Anzahl möglicher Ausgänge bzw.</description>
     <pubDate>Sun, 13 Apr 2025 18:08:48 GMT</pubDate>
   </item><item>
-    <title>Bedingte Wahrscheinlichkeiten</title>
-    <link>https://quartz.jzhao.xyz/Stochastik/Bedingte-Wahrscheinlichkeiten</link>
-    <guid>https://quartz.jzhao.xyz/Stochastik/Bedingte-Wahrscheinlichkeiten</guid>
-    <description>P_B(A) = \frac{P(A \bigcap B)}{P(B)} P_B(A) = P(A) \implies \text{Stochastische Unabhängigkeit}.</description>
-    <pubDate>Sun, 13 Apr 2025 17:57:41 GMT</pubDate>
-  </item><item>
     <title>Normalverteilungen</title>
     <link>https://quartz.jzhao.xyz/Stochastik/Normalverteilungen</link>
     <guid>https://quartz.jzhao.xyz/Stochastik/Normalverteilungen</guid>
@@ -53,18 +65,6 @@
     <guid>https://quartz.jzhao.xyz/Stochastik/Bernoulli-Ketten</guid>
     <description> zur Berechnung verketteter Laplace-Experimente+ Formel P(X=k) = \binom nk * p^k * (1-p)^{n-k} Kumuliert P(X \le k) = \sum_{k_k=0}^{k} \binom {n}{k_k} * p^{k_k} * (1-p)^{n-k_k} P(X&gt;k)=1-P(X \le k).</description>
     <pubDate>Sun, 13 Apr 2025 17:31:37 GMT</pubDate>
-  </item><item>
-    <title>Wahrscheinlichkeiten</title>
-    <link>https://quartz.jzhao.xyz/Stochastik/Wahrscheinlichkeiten</link>
-    <guid>https://quartz.jzhao.xyz/Stochastik/Wahrscheinlichkeiten</guid>
-    <description> ermöglichen eine Vorhersage über Zufallsexperimente Kenngrößen Absolute Häufigkeiten sind die jeweiligen Anzahlen des Vorkommens.</description>
-    <pubDate>Sun, 13 Apr 2025 17:03:08 GMT</pubDate>
-  </item><item>
-    <title>Themen</title>
-    <link>https://quartz.jzhao.xyz/Themen</link>
-    <guid>https://quartz.jzhao.xyz/Themen</guid>
-    <description> Analysis Funktionen Schnittpunkte Monotonie Symmetrie Extrema Wendepunkte und Sattelpunkte Limes Ableitungen Integrale Analytische Geometrie Vektorrechnung Geraden Ebenen Lagebeziehungen Abstände Schnitte Stochastik Wahrscheinlichkeiten Kombinatorik und Hypergeometrische Verteilung Bedingte Wahrsch...</description>
-    <pubDate>Sun, 13 Apr 2025 17:01:22 GMT</pubDate>
   </item>
     </channel>
   </rss>
