@@ -6,6 +6,18 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Ableitungen</title>
+    <link>https://quartz.jzhao.xyz/Analysis/Ableitungen</link>
+    <guid>https://quartz.jzhao.xyz/Analysis/Ableitungen</guid>
+    <description> Steigung an einem Punkt Mit der h-Methode f&#039;(x) = \lim_{h\to0} \frac{f(x+h)-f(x)}{h} Regeln (x^n)&#039;= nx^{n-1} k&#039; = 0 (uv)&#039; = u&#039; v+vu&#039; kx&#039; = k (u+v)&#039; = u&#039; + v&#039; Besondere Ableitungen \sin (x)&#039; = cos(x) cos(x)&#039; = -sin(x) ln(x)&#039; = \frac1x.</description>
+    <pubDate>Sun, 13 Apr 2025 18:51:03 GMT</pubDate>
+  </item><item>
+    <title>Nützliche Formeln</title>
+    <link>https://quartz.jzhao.xyz/N%C3%BCtzliche-Formeln</link>
+    <guid>https://quartz.jzhao.xyz/N%C3%BCtzliche-Formeln</guid>
+    <description> Satz des Pythagoras a²+b² = c² Binomische Formeln (a+b)² = a²+2ab+b² (a-b)²= a²-2ab+b² (a+b) (a-b) = a²-b² p-q-Formel x_{1,2} = -\frac{p}{2}±\sqrt{(\frac{p}{2})^2-q}.</description>
+    <pubDate>Sun, 13 Apr 2025 18:50:07 GMT</pubDate>
+  </item><item>
     <title>Funktionen</title>
     <link>https://quartz.jzhao.xyz/Analysis/Funktionen</link>
     <guid>https://quartz.jzhao.xyz/Analysis/Funktionen</guid>
@@ -53,18 +65,6 @@
     <guid>https://quartz.jzhao.xyz/Themen</guid>
     <description> Analysis Funktionen Schnittpunkte Monotonie Symmetrie Extrema Wendepunkte und Sattelpunkte Limes Ableitungen Integrale Analytische Geometrie Vektorrechnung Geraden Ebenen Lagebeziehungen Abstände Schnitte Stochastik Wahrscheinlichkeiten Kombinatorik und Hypergeometrische Verteilung Bedingte Wahrsch...</description>
     <pubDate>Sun, 13 Apr 2025 17:01:22 GMT</pubDate>
-  </item><item>
-    <title>Schnitte</title>
-    <link>https://quartz.jzhao.xyz/Analytische-Geometrie/Schnitte</link>
-    <guid>https://quartz.jzhao.xyz/Analytische-Geometrie/Schnitte</guid>
-    <description> Beide Objekte haben hier denselben Wert. Gerade-Gerade Setze beide Geraden gleich und löse das Gleichungssystem.</description>
-    <pubDate>Sun, 13 Apr 2025 16:37:52 GMT</pubDate>
-  </item><item>
-    <title>Lagebeziehungen</title>
-    <link>https://quartz.jzhao.xyz/Analytische-Geometrie/Lagebeziehungen</link>
-    <guid>https://quartz.jzhao.xyz/Analytische-Geometrie/Lagebeziehungen</guid>
-    <description> Punkt-Gerade \vec x = \left( \begin{array}{c} x_p \\ y_p \\ z_p \end{array} \right) + s*\left( \begin{array}{c} x_v \\ y_v \\ z_v \end{array} \right) \implies P \in G \text{ (Punkt liegt auf Gerade)} Gerade-Gerade \left( \begin{array}{c} x_{p1} \\ y_{p1} \\ z_{p1} \end{array} \right) + s*\left( \be...</description>
-    <pubDate>Sun, 13 Apr 2025 16:29:24 GMT</pubDate>
   </item>
     </channel>
   </rss>
